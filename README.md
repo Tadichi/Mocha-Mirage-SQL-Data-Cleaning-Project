@@ -21,7 +21,7 @@ This project follows a structured **ETL (Extract, Transform, Load) workflow** to
 - **Created a staging table** to preserve the raw dataset.
 - Conducted **exploratory data analysis (EDA)** to identify key issues.
 
-👉 **[View Full SQL Queries Here]((https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/Cafe_sales_query.sql))**
+👉 **[View Full SQL Queries Here](https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/Cafe_sales_query.sql)**
 
 ---
 
@@ -54,7 +54,7 @@ This project follows a structured **ETL (Extract, Transform, Load) workflow** to
 ### **6️⃣ Creating a Clean Data View**
 - Generated a **structured, analysis-ready dataset** using SQL Views.
 
-👉 **[Download Cleaned Data (CSV)]((https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/Cleaned%20Data.csv))**
+👉 **[Download Cleaned Data (CSV)](https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/Cleaned%20Data.csv)**
 
 ---
 
@@ -81,8 +81,8 @@ This project follows a structured **ETL (Extract, Transform, Load) workflow** to
 ---
 
 ## 📂 **Files Included**
-📌 **[mocha_mirage_data_cleaning.sql]((https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/Cafe_sales_query.sql))** – Full SQL script for data cleaning steps.  
-📌 **[data_before_after.csv]((https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/dirty_cafe_sales.csv))** – Sample dataset before & after cleaning.  
+📌 **[mocha_mirage_data_cleaning.sql](https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/Cafe_sales_query.sql)** – Full SQL script for data cleaning steps.  
+📌 **[data_before_after.csv](https://github.com/Tadichi/Mocha-Mirage-SQL-Data-Cleaning-Project/blob/main/dirty_cafe_sales.csv)** – Sample dataset before & after cleaning.  
 
 ---
 
